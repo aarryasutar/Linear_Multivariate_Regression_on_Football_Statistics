@@ -1,4 +1,4 @@
-#Linear Regression for Predicting Football Player Attacking Stats
+# Linear Regression for Predicting Football Player Attacking Stats
 
 ## Introduction:
 Linear regression is a statistical method used for modeling the relationship between a dependent variable and one or more independent variables. In this context, we use linear regression to predict a football player’s attacking stats based on various attributes such as finishing, heading accuracy, passing skills, etc.
